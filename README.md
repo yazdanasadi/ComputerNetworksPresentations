@@ -1,5 +1,5 @@
 # ComputerNetworksPresentations
-This my presentations for Computer Networks
+These are my presentations for Computer Networks
  
  Delay Performance Presentation:
  https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=941c5bb7-5932-44bc-bcf3-ac9000d2caf1
